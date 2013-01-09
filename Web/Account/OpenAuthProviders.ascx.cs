@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Web;
 using Microsoft.AspNet.Membership.OpenAuth;
 
-namespace Web.Account
+namespace XQYC.JobSite.Web.Account
 {
     public partial class OpenAuthProviders : System.Web.UI.UserControl
     {

@@ -4,7 +4,7 @@ using System.Web.Security;
 using DotNetOpenAuth.AspNet;
 using Microsoft.AspNet.Membership.OpenAuth;
 
-namespace Web.Account
+namespace XQYC.JobSite.Web.Account
 {
     public partial class RegisterExternalLogin : System.Web.UI.Page
     {

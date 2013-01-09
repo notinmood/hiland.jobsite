@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Web.Account
+namespace XQYC.JobSite.Web.Account
 {
 
 
@@ -30,6 +30,6 @@ namespace Web.Account
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Web.Account.OpenAuthProviders OpenAuthLogin;
+        protected global::XQYC.JobSite.Web.Account.OpenAuthProviders OpenAuthLogin;
     }
 }

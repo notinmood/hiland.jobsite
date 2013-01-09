@@ -4,7 +4,7 @@ using System.Linq;
 
 using Microsoft.AspNet.Membership.OpenAuth;
 
-namespace Web.Account
+namespace XQYC.JobSite.Web.Account
 {
     public partial class Manage : System.Web.UI.Page
     {

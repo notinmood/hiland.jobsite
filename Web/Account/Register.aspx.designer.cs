@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Web.Account
+namespace XQYC.JobSite.Web.Account
 {
 
 

@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using Web;
 
-namespace Web
+namespace XQYC.JobSite.Web
 {
     public class Global : HttpApplication
     {

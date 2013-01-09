@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Web.Account
+namespace XQYC.JobSite.Web.Account
 {
     public partial class Login : Page
     {

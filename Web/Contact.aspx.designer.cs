@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Web
+namespace XQYC.JobSite.Web
 {
     public partial class Contact
     {

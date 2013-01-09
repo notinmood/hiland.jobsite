@@ -7,7 +7,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.Membership.OpenAuth;
 
-namespace Web.Account
+namespace XQYC.JobSite.Web.Account
 {
     public partial class Register : Page
     {
